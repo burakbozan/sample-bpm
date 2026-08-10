@@ -1,0 +1,20 @@
+# Java
+target/
+*.class
+*.jar
+
+# Node
+node_modules/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Copilot artifacts
+.copilot/
